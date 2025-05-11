@@ -10,8 +10,6 @@ Tür, IMDb puanı ve oy sayısı bilgileri kullanılarak cosine similarity ile b
 - **Ağırlıklı cosine similarity:** Tür bilgisi %70, IMDb puanı ve oy sayısı %30 etkilidir.
 - **Masaüstü uyumlu:** Kod `.exe` dosyası ile çalıştırılabilir.
 
-.exe link: https://drive.google.com/drive/folders/1JR2ag73A46Xm3nAEsH5eYb8kiY3yy4aZ?usp=drive_link
-
 
 **Kullanılanlar**
 
